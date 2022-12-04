@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SIIM_TwinTransformerCrossSectionAlignment/static/css/main.e6c13ad2.css",
-    "main.js": "/SIIM_TwinTransformerCrossSectionAlignment/static/js/main.b5c8a275.js",
+    "main.js": "/SIIM_TwinTransformerCrossSectionAlignment/static/js/main.470af168.js",
     "static/js/787.6669b9e6.chunk.js": "/SIIM_TwinTransformerCrossSectionAlignment/static/js/787.6669b9e6.chunk.js",
     "index.html": "/SIIM_TwinTransformerCrossSectionAlignment/index.html",
     "main.e6c13ad2.css.map": "/SIIM_TwinTransformerCrossSectionAlignment/static/css/main.e6c13ad2.css.map",
-    "main.b5c8a275.js.map": "/SIIM_TwinTransformerCrossSectionAlignment/static/js/main.b5c8a275.js.map",
+    "main.470af168.js.map": "/SIIM_TwinTransformerCrossSectionAlignment/static/js/main.470af168.js.map",
     "787.6669b9e6.chunk.js.map": "/SIIM_TwinTransformerCrossSectionAlignment/static/js/787.6669b9e6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b5c8a275.js"
+    "static/js/main.470af168.js"
   ]
 }
